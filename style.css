@@ -1,0 +1,42 @@
+body {
+    background-color: #FAD6A5;
+}
+
+header img {
+    height: 50px;
+}
+
+header h1{
+    text-align: center;
+    color: #CD5C08;
+}
+
+.lp {
+    text-align: center;
+    color: #CD5C08;
+}
+
+.img {
+    height: 250px;
+}
+
+footer {
+    background-color:  #F0A04B;
+}
+
+a {
+    color: #CD5C08;
+}
+
+table {
+    margin: auto;
+    color: #CD5C08;
+}
+
+.lk {
+    text-align: center;
+}
+
+.dr {
+    margin: 0 auto;
+}
